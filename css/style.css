@@ -103,8 +103,8 @@ p.ptsans {
 }
 
 #box {
-  -webkit-animation: fadein 5s infinite; /* Safari 4+ */
-  -moz-animation:    fadein 5s infinite; /* Fx 5+ */
-  -o-animation:      fadein 5s infinite; /* Opera 12+ */
-  animation:         fadein 5s infinite; /* IE 10+, Fx 29+ */
+  -webkit-animation: fadein 10s infinite; /* Safari 4+ */
+  -moz-animation:    fadein 10s infinite; /* Fx 5+ */
+  -o-animation:      fadein 10s infinite; /* Opera 12+ */
+  animation:         fadein 10s infinite; /* IE 10+, Fx 29+ */
 }
