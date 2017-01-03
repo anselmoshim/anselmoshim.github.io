@@ -1,21 +1,29 @@
 h1.slabo {
   font-family: 'Slabo 27px', serif;
+  width: 100%;
+  letter-spacing: 2px;
   text-align:center ;
 
 }
 
 p.slabo {
   font-family: 'Slabo 27px', serif;
+  width: 100%;
+  letter-spacing: 2px;
   text-align:center ;
 }
 
 h1.ptsans {
   font-family: 'PT Sans', sans-serif;
+  width: 100%;
+  letter-spacing: 2px;
   text-align:center ;
 }
 
 p.ptsans {
   font-family: 'PT Sans', sans-serif;
+  width: 100%;
+  letter-spacing: 2px;
   text-align:center ;
 }
 
@@ -102,9 +110,9 @@ p.ptsans {
   100% { opacity: 1; }
 }
 
-#box {
-  -webkit-animation: fadein 10s infinite; /* Safari 4+ */
-  -moz-animation:    fadein 10s infinite; /* Fx 5+ */
-  -o-animation:      fadein 10s infinite; /* Opera 12+ */
-  animation:         fadein 10s infinite; /* IE 10+, Fx 29+ */
+.fadein {
+  -webkit-animation: fadein 5s infinite; /* Safari 4+ */
+  -moz-animation:    fadein 5s infinite; /* Fx 5+ */
+  -o-animation:      fadein 5s infinite; /* Opera 12+ */
+  animation:         fadein 5s infinite; /* IE 10+, Fx 29+ */
 }
