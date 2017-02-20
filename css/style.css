@@ -1,4 +1,4 @@
-h1.slabo {
+h1, p.slabo {
   font-family: 'Slabo 27px', serif;
   width: 100%;
   letter-spacing: 2px;
@@ -6,21 +6,7 @@ h1.slabo {
 
 }
 
-p.slabo {
-  font-family: 'Slabo 27px', serif;
-  width: 100%;
-  letter-spacing: 2px;
-  text-align:center ;
-}
-
-h1.ptsans {
-  font-family: 'PT Sans', sans-serif;
-  width: 100%;
-  letter-spacing: 2px;
-  text-align:center ;
-}
-
-p.ptsans {
+h1, p.ptsans {
   font-family: 'PT Sans', sans-serif;
   width: 100%;
   letter-spacing: 2px;
