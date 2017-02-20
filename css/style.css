@@ -27,6 +27,11 @@ p.ptsans {
   text-align:center ;
 }
 
+h1, p.opensans {
+  font-family: 'Open Sans', sans-serif;
+  text-align:center ;
+}
+
 .center {
     height: 200px;
     width: 400px;
@@ -92,6 +97,15 @@ p.ptsans {
 }
 .social i#devpost:hover {
   color: #083C54;
+}
+
+/* Google Font Face */
+
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'), local('OpenSans'), url('http://themes.googleusercontent.com/static/fonts/opensans/v5/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw.woff') format('woff');
 }
 
 /* Fade-In Animation */
