@@ -9,6 +9,7 @@ $(window).load(function() {
   var githubPos = $('#github').position();
   var stackPos = $('#stack').position();
   var linkedinPos = $('#linkedin').position();
+  var devpostPos = $('#devpost').position();
   var codePos = $('#code').position();
   var plusPos = $('#plus').position();
   var mailPos = $('#mail').position();
@@ -68,6 +69,18 @@ $(window).load(function() {
     $('#linkedin').animate({
       top: linkedinPos.top,
       left: linkedinPos.left
+    }, 250);
+
+    $('#devpost').animate({
+      top: devpostPos.top + 10,
+      left: devpostPos.left
+    }, 500);
+  }, 1000);
+  
+  setTimeout(function() {
+    $('#devpost').animate({
+      top: devpostPos.top,
+      left: devpostPos.left
     }, 250);
     
     $('#code').animate({
