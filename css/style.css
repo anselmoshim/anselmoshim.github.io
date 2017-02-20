@@ -90,6 +90,9 @@ p.ptsans {
 .social i#mail:hover {
   color: #F7B401;
 }
+.social i#devpost:hover {
+  color: #083C54;
+}
 
 /* Fade-In Animation */
 
