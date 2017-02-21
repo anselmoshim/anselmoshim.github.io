@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2017 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="devpost" unicode="&#xe801;" d="M553 536h-65v-372h60c128 0 187 75 187 186 0 124-54 186-182 186z m316 314h-579l-290-500 290-500h579l289 500-289 500z m-321-806h-180v612h189c174 0 303-83 303-306 0-214-155-306-312-306z" horiz-adv-x="1158" />
+
+<glyph glyph-name="hackerrank" unicode="&#xe802;" d="M896 595c-28 48-368 245-424 245-55 0-396-197-423-245-28-48-28-442 0-490 27-48 368-245 423-245s396 197 424 245c28 48 28 442 0 490z m-309-548c-8 0-78 69-73 74 2 2 12 3 34 4v2c0 43 1 123 2 163 0 4-1 7-1 11-52 0-102 0-153 0 0-18 0-38 0-58 0-26 1-55 2-81 1-9-3-12-11-12-19 0-38 1-58 0-8 0-11 3-11 12 2 53 3 111 3 164 0 64-2 180-3 243v6c-19 1-31 2-33 4-6 5 66 74 74 74 7 0 78-69 73-74-2-2-15-3-32-4v-6c-5-49-4-152-5-201 52 0 102 0 153 0 0 20 1 38 0 57 0 32-1 70-2 103 0 6 2 10 8 10 21 0 43 0 64 0 6 0 8-4 8-11-1-73-3-151-3-224-1-45 1-129 2-176v-2c17-1 32-2 34-4 5-5-64-74-72-74z" horiz-adv-x="944" />
+</font>
+</defs>
+</svg>

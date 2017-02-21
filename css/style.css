@@ -84,6 +84,9 @@ h1, p.opensans {
 .social i#devpost:hover {
   color: #083C54;
 }
+.social i#hackerrank:hover {
+  color: #F7B401;
+}
 
 /* Google Font Face */
 
