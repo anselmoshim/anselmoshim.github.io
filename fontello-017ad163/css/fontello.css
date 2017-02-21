@@ -20,7 +20,7 @@
 }
 */
  
- [class^="icon-"]:before, [class*=" icon-"]:before {
+ [class^="fontello-"]:before, [class*=" fontello-"]:before {
   font-family: "fontello";
   font-style: normal;
   font-weight: normal;
@@ -55,5 +55,5 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-devpost:before { content: '\e801'; } /* '' */
-.icon-hackerrank:before { content: '\e802'; } /* '' */
+.fontello-devpost:before { content: '\e801'; } /* '' */
+.fontello-hackerrank:before { content: '\e802'; } /* '' */
